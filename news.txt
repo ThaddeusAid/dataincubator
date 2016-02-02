@@ -1,0 +1,123 @@
+Welcome to BLS News Release Data
+
+
+The BLS news releases available on the Internet provide reports on the 
+findings of several BLS programs along with national indicators such as 
+the Employment Situation and the Consumer Price Index.
+
+Each news release is in ASCII text format and sub-divided into three 
+sections:
+
+The first section includes the table of contents, which provides a detailed 
+outline of the contents of the news release, along with the dates and times
+on which the news releases are made available and the contacts to call if 
+users have any questions regarding the data;
+
+The second section includes text used to explain the data produced in that 
+period and the methodologies used in deriving the data;
+
+The third section includes all the pertinent tables showing the data 
+collected during that period;
+
+To obtain the news releases on the Internet, access the news.release
+sub-directory under the pub directory.
+
+Current news releases can be found directly under the /pub/news.release 
+directory under the following format:  
+
+	 [abbreviation assigned in naming the news release].txt
+
+Under the /pub/news.release/History sub-directory you can obtain historical
+news releases uder the following format:
+
+ [abbreviation assigned in naming the news release].[period (mmddyy)].news
+
+The schedule of news releases is located in /pub/news.release and named schedue.txt.
+
+
+The following is a list of all the new releases available on the BLS INTERNET
+along with the abbreviations used in naming the files to be downloaded:
+
+
+
+ANNPAY          Average Annual Pay by State and Industry (Annual)
+ANPAY2          Annual Pay Levels in Metropolitan Areas (Annual)
+ATUS		Time Use Survey - First Results Announced by BLS
+CARGDE          1994-95 Career Guide to Industries
+CESAN           Consumer Expenditure Surveys (Annual)
+CEWBD           Business Employment Dynamics
+CEWQTR          County Employment and Wages
+CFOI            Census of Fatal Occupational Injuries
+CIUAW		Computer and Internet Use at Work (Annual)
+CONEMP          Contingent and Alternative Employment Arrangements
+CPI             Consumer Price Index
+DEMDAT          Demographic Databook for State and Large Metropolitan Areas (Annual)
+DISP            Worker Displacement
+EAAPC           Employment and Average Annual Pay for Large Counties
+EBS             Employee Benefits in Small Private Industry Establishments (Annual)
+EBS2            Employee Benefits in State and Local Governments - in Private Industry
+EBS3            Employee Benefits in Medium and Large Private Establishments
+ECEC            Employer Costs for Employee Compensation
+ECI             Employment Cost Index
+ECOPRO          Economic and Employment Projects
+EMPSIT          Employment Situation (Monthly)
+ETHNIC          Test Methods for Collecting Racial and Ethnic Information
+FAMEE           Employment Characteristics of Families
+FLEX            Workers on Flexible and Shift Schedules
+FOB             Employment and Wages in Foreign-owned Businesses in the USA
+FOME            Foreign-owned Manufacturing Establishments in USA
+FORBRN          Labor Force Characteristics of Foreign-born Workers in 2003	 
+HCE             Health Care Expenditures (Annual)
+HOMEY           Work At Home 
+HSGEC           College Enrollment and Work Activity of High School Graduates
+ICHCC           International Comparisons of Hourly of Compensation Cost for Production 
+                Workers in Manufacturing 
+JEC             Commissioner's Statement on the Employment Situation (Monthly)
+JOLTS           Job Openings and Labor Turnover Series
+LAUS            Regional and State Employment and Unemployment (Monthly)
+METRO           Metropolitan Area Employment and Unemployment
+MMLS            Mass Layoffs (Monthly)
+MSLO            Extended Mass Layoffs (Quarterly)
+NCSPAY          Occupational Pay Relatives
+NLSOY		Number of Jobs, Labor Market Experience, and Earnings Growth: Results 
+                From a Longitudinal Survey
+NLSYTH          Employment Experience and Other Characteristics of Youths: Results 
+                From a New Longitudinal Survey
+OCCOMP          Survey Reports on Wages and Benefits for Temporary Help Workers
+OCWAGE          New Occupational Employment and Wage Series Announced
+OOH             Edition of the Occupational Outlook Handbook Published
+OPTD		Occupational Projections and Training Data
+OSH             Occupational Injuries and Illnesses (Annual)
+OSH2            Occupational Injury and Illnesses by Selected Characteristics
+PPI             Producer Price Index
+PRIN            Productivity and Costs: Wholesale Trade, Retail Trade, and Food Services and Drinking Places, 2002
+PROD2           Productivity and Cost Measures (Quarterly)
+PROD3           Multifactor Productivity Trends
+PROD4           International Comparisons of Manufacturing Productivity and Unit Labor Cost Trends
+PROD5           Multifactor Productivity Trends in Manufacturing, 2000
+REALER          Real Earnings (Monthly)
+RELOC		Extended Mass Layoffs Associated with Domestic and Overseas Relocations
+SEPT            Survey of Employer-Provided Training - Employee Results
+SEPT1           Survey of Employer-Provided Training - Employer Results
+SRGUNE          State and Regional Unemployment (Annual)
+TENURE          Employee Tenure in 1998
+UNION2          Union Membership (Annual)
+VET             Employment Situation of Veterans
+VOLUN		Volunteering in the United States
+WKSTP           Major Work Stoppages (Annual)
+WKYENG          Usual Weekly Earnings of Wage and Salary Workers
+WORK            Work Experience of the Population (Annual)
+XIMPIM          U.S.  Import and Export Price Indexes (Monthly)
+YOUTH           Summer Employment and Unemployment Among Youth (Annual)
+
+In addition to archived versions of the news releases listed above, the following list contains
+news releases for which we maintain archived versions in the /pub/news.release/History directory:
+
+
+BARCAL          Bargaining Activity (Annual)
+BARG            Major Collective Bargaining Settlements in Private Industry (4th Quarter and Annual 1994)
+BARG-G          Major Collective Bargaining Settlements in State and Local Government (Annual)
+BARG-P          Major Collective Bargaining Settlements in Private Industry (3rd Quarter 1995)
+ECOPRO1		50 Years In Print: 1996-97 Edition of the Occupational Outlook Handbook Published
+NEWS		Schedule of News Releases for Coming Months
+PROD		Productivity and Cost
